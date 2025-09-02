@@ -14,9 +14,4 @@ This project detects whether a given news article is **real or fake** using Natu
 - **Libraries:** scikit-learn, pandas, numpy, nltk, matplotlib, seaborn
 - **Jupyter Notebook** for experimentation
 
-## 🚀 How to Run
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
